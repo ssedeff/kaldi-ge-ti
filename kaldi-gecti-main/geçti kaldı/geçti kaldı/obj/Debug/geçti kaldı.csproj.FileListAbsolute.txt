@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\10a\geçti kaldı\geçti kaldı\bin\Debug\geçti kaldı.exe.config
+C:\Users\User\Desktop\KORUMASIZ\10a\geçti kaldı\geçti kaldı\bin\Debug\geçti kaldı.exe
+C:\Users\User\Desktop\KORUMASIZ\10a\geçti kaldı\geçti kaldı\bin\Debug\geçti kaldı.pdb
+C:\Users\User\Desktop\KORUMASIZ\10a\geçti kaldı\geçti kaldı\obj\Debug\geçti kaldı.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\10a\geçti kaldı\geçti kaldı\obj\Debug\geçti kaldı.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\10a\geçti kaldı\geçti kaldı\obj\Debug\geçti_kaldı.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\10a\geçti kaldı\geçti kaldı\obj\Debug\geçti_kaldı.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\10a\geçti kaldı\geçti kaldı\obj\Debug\geçti kaldı.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\10a\geçti kaldı\geçti kaldı\obj\Debug\geçti kaldı.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\10a\geçti kaldı\geçti kaldı\obj\Debug\geçti kaldı.exe
+C:\Users\User\Desktop\KORUMASIZ\10a\geçti kaldı\geçti kaldı\obj\Debug\geçti kaldı.pdb
